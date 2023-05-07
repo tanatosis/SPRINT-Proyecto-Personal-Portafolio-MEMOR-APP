@@ -35,7 +35,24 @@
 
 # dasboard.hbs
 
-  - // `Linea 552` Se agrega el script para controlar los botones 
+- // `Linea 552` Se agrega el script para controlar los botones 
+- // `Linea 560` Función para mostrar la alerta de encendido
+- // `Linea 598` Función para mostrar la alerta de LED encendido por más de 10 segundos 
+- // `Linea 618` Cuando se presione el botón de encender, se envía una petición al servidor y se muestra la alerta de encendido
+- // `Linea 633` Cuando se presione el botón de apagar, se envía una petición al servidor y se muestra la alerta de apagado 
+- // `Linea 654` Scripts jquery-bootstrap-chartjs
+
+# mantenedor.hbs
+
+- // `Linea 38` Función para descargar la tabla en excel
+- // `Linea 54` Descarga el archivo CSV (Manipulación de datos)
+- // `Linea 333` Tabla de usuarios conectada a la base de datos Postgress
+
+
+
+
+
+
 
 
 
